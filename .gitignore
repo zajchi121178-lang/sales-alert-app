@@ -1,0 +1,32 @@
+# Скомпилированные Java-классы
+*.class
+
+# Библиотеки и зависимости
+/lib/
+
+# Директории сборки
+/out/
+/target/
+/build/
+
+# Python кэши
+__pycache__/
+*.pyc
+
+# IDE файлы
+.idea/
+.vscode/
+*.iml
+
+# Локальные конфиги
+.env
+*.class
+/lib/
+/out/
+/target/
+__pycache__/
+*.pyc
+.idea/
+.vscode/
+*.iml
+.env
