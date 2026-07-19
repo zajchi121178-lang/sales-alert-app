@@ -1,0 +1,2 @@
+D:\projects\sales-alert-app\lib\kafka-clients-3.8.0.jar
+D:\projects\sales-alert-app\lib\kafka-streams-3.8.0.jar
